@@ -301,16 +301,6 @@ h3 {
 .portion4 {
   text-align: center;
 }
-
-.portion2 .box1{
-  overflow: hidden;
-}
-.portion2 .box2{
-  overflow: hidden;
-}
-.portion3{
-  overflow: hidden;
-}
 #back-to-top {
   position: absolute;
   right: 20px;
@@ -393,6 +383,15 @@ h3 {
   }
   .portion2 {
     text-align: center;
+  }
+  .portion2 .box1 i{
+    overflow: hidden;
+  }
+  .portion2 .box2 i{
+    overflow: hidden;
+  }
+  .portion3 i{
+    overflow: hidden;
   }
   .text {
     font-size: 28px;
