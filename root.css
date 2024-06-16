@@ -179,6 +179,7 @@ h3 {
 /* Profiles CSS */
 .profiles {
   padding-top: 30px;
+  overflow: hidden;
 }
 
 .row {
@@ -221,6 +222,7 @@ h3 {
   padding-top: 30px;
   font-family: sans-serif;
   margin-bottom: 30px;
+  overflow: hidden;
 }
 
 .portion3 {
