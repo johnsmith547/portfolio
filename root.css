@@ -327,7 +327,7 @@ h3 {
   }
   .menu{
     display: block;
-    font-size: 0.8rem;
+    font-size: 1.2rem;
     cursor: pointer;
   }
   .main video {
@@ -344,7 +344,7 @@ h3 {
     font-size: 1rem;
   }
   .icons i {
-    font-size: 18px;
+    font-size: 20px;
   }
   .eduation {
     flex-wrap: wrap;
@@ -364,7 +364,7 @@ h3 {
     padding-top: 20px;
   }
   .row i {
-    font-size: 0.8rem;
+    font-size: 1.2rem;
   }
   .contact {
     flex-direction: column;
@@ -377,10 +377,6 @@ h3 {
   }
   .portion2 {
     text-align: center;
-  }
-  .portion2 i,
-  .portion3 i{
-    font-size: 0.8rem;
   }
   .text {
     font-size: 28px;
