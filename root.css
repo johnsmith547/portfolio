@@ -400,8 +400,10 @@ h3 {
   .row i:hover {
     transform: scale(2);
   }
-  #back-to-top {
+  #back-to-top{
     padding: 12px;
+  }
+  #back-to-top i{
     overflow: hidden;
   }
 }
