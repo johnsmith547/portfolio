@@ -302,8 +302,13 @@ h3 {
   text-align: center;
 }
 
-.portion2,
-.portion3{
+.portion2 .box1 i{
+  overflow: hidden;
+}
+.portion2 .box2 i{
+  overflow: hidden;
+}
+.portion3 i{
   overflow: hidden;
 }
 #back-to-top {
