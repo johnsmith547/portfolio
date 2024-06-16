@@ -381,6 +381,7 @@ h3 {
   .portion2 i,
   .portion3 i{
     font-size: 1rem;
+    overflow: hidden;
   }
   .text {
     font-size: 28px;
