@@ -402,5 +402,6 @@ h3 {
   }
   #back-to-top {
     padding: 12px;
+    overflow: hidden;
   }
 }
