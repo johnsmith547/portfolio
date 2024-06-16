@@ -73,6 +73,10 @@ h1 {
   display: none;
 }
 
+.menu i{
+  overflow: hidden;
+}
+
 /* About CSS */
 .text {
   font-size: 33px;
@@ -139,6 +143,7 @@ h3 {
 
 .icons i {
   font-size: 25px;
+  overflow: hidden;
 }
 
 .child2 img.show {
@@ -191,6 +196,7 @@ h3 {
   margin: 100px 0;
   font-size: 2rem;
   cursor: pointer;
+  overflow: hidden;
 }
 
 .row i:hover {
@@ -294,6 +300,11 @@ h3 {
 
 .portion4 {
   text-align: center;
+}
+
+.portion2,
+.portion3{
+  overflow: hidden;
 }
 #back-to-top {
   position: absolute;
